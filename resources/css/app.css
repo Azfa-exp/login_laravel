@@ -1,0 +1,15 @@
+/* Contoh tambahan styling untuk form login */
+.card {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #3490dc;
+    border-color: #3490dc;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #2779bd;
+    border-color: #2779bd;
+}
